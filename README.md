@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Ikechukwu Eze
 #### I am a full-stack developer and a rustacean
 
-
-[<img src="https://wakatime.com/share/@Ikechukwu/cd5f879b-c14a-42dc-8ddf-9a24e9866be3.svg" alt='Coding Time' height='400'>](https://github.com/iykekings)
+[<img src="https://wakatime.com/share/@Ikechukwu/cd5f879b-c14a-42dc-8ddf-9a24e9866be3.svg" alt='Languages' height='400'>](https://github.com/iykekings)
 
 When I'm not busy trying to join many worlds into one with one LOC, I contribute to open source projects esp [Deno](https://github.com/denoland) or hang out with my friends as their personal debugger.
 
@@ -21,3 +20,4 @@ Skills: TS / JS / Rust / Go / Java / React / Angular / Svelte /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iykekings&show_icons=true)  
 
+[<img src="https://wakatime.com/share/@Ikechukwu/b95eab7d-c109-4afa-93de-b7047fe99566.svg" alt='Coding Time' height='400'>](https://github.com/iykekings)
