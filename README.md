@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Ikechukwu Eze
 #### I am a full-stack developer and a rustacean
-![I am a full-stack developer and a rustacean](https://scontent.fbni1-1.fna.fbcdn.net/v/t1.0-9/99423690_3006086202838153_6995808062195892224_o.jpg?_nc_cat=102&_nc_sid=09cbfe&_nc_eui2=AeEYKrOFqMZZVdvgx6skw3cuvw20qKFKm02_DbSooUqbTfNCz1RJXr5sYxrOo_o9miEuKlGByi4eALMZYst_GHyn&_nc_ohc=yZNHP8NVzacAX8OweA6&_nc_ht=scontent.fbni1-1.fna&oh=8231ff9d1eb6f5f8d689aa6ed029e1ad&oe=5F49E5E0)
+
+
+[<img src="https://wakatime.com/share/@Ikechukwu/cd5f879b-c14a-42dc-8ddf-9a24e9866be3.svg" alt='Coding Time' height='400'>](https://github.com/iykekings)
 
 When I'm not busy trying to join many worlds into one with one LOC, I contribute to open source projects esp [Deno](https://github.com/denoland) or hang out with my friends as their personal debugger.
 
