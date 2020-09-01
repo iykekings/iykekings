@@ -19,5 +19,3 @@ Skills: TS / JS / Rust / Go / Java / React / Angular / Svelte /
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iykekings)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iykekings/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Iykkings)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ikezedev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10328101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ikeze.dev)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iykekings&show_icons=true)  
-
-[<img src="https://wakatime.com/share/@Ikechukwu/b95eab7d-c109-4afa-93de-b7047fe99566.svg" alt='Coding Time' height='400'>](https://github.com/iykekings)
