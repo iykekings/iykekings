@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ikechukwu Eze
-#### I am a full-stack developer and a rustacean
+#### I am a software engineer and a rustacean 🦀
 
 [<img src="https://wakatime.com/share/@Ikechukwu/cd5f879b-c14a-42dc-8ddf-9a24e9866be3.svg" alt='Languages' height='400'>](https://github.com/iykekings)
 
