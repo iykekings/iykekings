@@ -1,3 +1,4 @@
+## Moved to [ikezedev](https://github.com/ikezedev)
 ### Hi there 👋, my name is Ikechukwu Eze
 #### I am a software engineer and a rustacean 🦀
 
